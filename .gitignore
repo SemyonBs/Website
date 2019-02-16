@@ -1,1 +1,2 @@
-script/node_modules/
+server/sendgrid.mail/
+server/sendgrid/
